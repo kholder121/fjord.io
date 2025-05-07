@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "IT Consultation"
+    url: /consult/
+  - title: "IT Project Management"
+    url: /projects/
+  - title: "Cybersecurity"
+    url: /cybersecurity/
   - title: "About"
     url: /about/
