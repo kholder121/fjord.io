@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Kaleb Holder"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/FrostfallIT_logo.png"
   bio    : "Established 2025."
   links:
     - label: "Website"
